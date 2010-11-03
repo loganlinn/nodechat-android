@@ -6,8 +6,9 @@ This is an Android client that will connect to the example node.js chat room [ht
 
 I started this for an assignment for a course involving Android development and to play with node.js -- feel free to contribute! If there is enough interest/contributions, I will publish to the Android Market. 
 
-[Screenshot](/design/ss6.png)
-[Presentation](/design/NodeChatPresentation.pptx)
+* [Screenshot](design/ss6.png)
+
+* [Presentation](design/NodeChatPresentation.pptx)
 
 Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
 
