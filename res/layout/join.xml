@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<ImageView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/joinLogo"
+		android:src="@drawable/nodechatlogo"></ImageView>
+	<EditText android:layout_height="wrap_content"
+		android:layout_marginRight="5px" android:layout_marginLeft="5px"
+		android:layout_width="fill_parent" android:id="@+id/joinNickname"
+		android:text="@string/nickname_text" android:lines="1"
+		android:maxLines="1"></EditText>
+
+
+	<Button android:text="@string/join" android:layout_height="wrap_content"
+		android:layout_marginRight="5px" android:layout_marginLeft="5px"
+		android:layout_marginTop="0px" android:layout_width="fill_parent"
+		android:id="@+id/joinButton"></Button>
+	
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5px" android:layout_marginLeft="10px"
+        android:layout_marginTop="10dip"
+        android:text="Server:"
+    />
+	<Spinner android:id="@+id/serverSpinner" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:drawSelectorOnTop="true"
+		android:prompt="@string/server_prompt" android:layout_marginRight="5px"
+		android:layout_marginLeft="5px" />
+</LinearLayout>

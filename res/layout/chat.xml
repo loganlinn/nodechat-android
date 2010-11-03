@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@android:color/black">
+
+
+	<Button android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_alignParentRight="true"
+		android:layout_alignParentBottom="true" android:id="@+id/sendMessageButton"
+		android:text="@string/send_message" android:layout_marginRight="5px"></Button>
+
+	<EditText android:layout_height="wrap_content" android:id="@+id/chatMessage"
+		android:layout_width="fill_parent" android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" android:gravity="center_vertical"
+		android:layout_toLeftOf="@id/sendMessageButton"
+		android:layout_marginLeft="5px"></EditText>
+
+	<ListView android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:id="@+id/chatView"
+		android:layout_above="@+id/chatMessage" android:background="@android:color/background_light"
+		android:layout_marginBottom="5px" android:transcriptMode="alwaysScroll">
+	</ListView>
+
+</RelativeLayout>

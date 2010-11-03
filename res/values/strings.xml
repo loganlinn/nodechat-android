@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty"></string>
+    <string name="app_name">NodeChat</string>
+<string name="join">Join</string>
+<string name="nickname_text">Enter a nickname</string>
+<string name="send_message">Send</string>
+<string name="server_prompt">Select Chat Server</string>
+</resources>
