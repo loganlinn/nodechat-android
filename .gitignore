@@ -1,1 +1,7 @@
+# Eclipse meta-information
+/.project
+/.classpath
+/.settings
+
+# SVN
 .svn
