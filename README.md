@@ -24,3 +24,7 @@ To build with Eclipse (3.5), do the following:
 
 * Import the project into your Eclipse workspace
 
+### To-do's/Known Issues ###
+* Connecting to a server that is not running the chat room will likely cause force close
+* Needs to support removing servers/clean-up server list
+
