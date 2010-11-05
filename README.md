@@ -2,7 +2,7 @@
 
 ### About ###
 
-This is an Android client that will connect to the example node.js chat room [https://github.com/ry/node_chat](https://github.com/ry/node_chat) (chat room demos at [http://chat.nodejs.org/](http://chat.nodejs.org/), [http://twit.me/](http://twit.me/)). The application interfaces with a server running the node.js chat room in the same manner the browser version does.
+This is an Android client that will connect to the example node.js chat room [https://github.com/ry/node_chat](https://github.com/ry/node_chat) (chat room demos at [http://chat.nodejs.org/](http://chat.nodejs.org/), [http://twich.me/](http://twich.me/)). The application interfaces with a server running the node.js chat room in the same manner the browser version does.
 
 I started this for an assignment for a course involving Android development and to play with node.js -- feel free to contribute! If there is enough interest/contributions, I will publish to the Android Market. 
 
