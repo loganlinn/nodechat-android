@@ -1,4 +1,7 @@
 # Android NodeChat #
+### Foreword ###
+
+This is a project for a Network Application Design course. It is not actively developed or bug free, though feel free to fork. 
 
 ### About ###
 
@@ -18,4 +21,5 @@ Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/L
 * Needs to support removing servers/clean-up server list
 * Needs extra support for twich.me chat rooms
 * Needs to handle downloading large chat histories
+* Force chat history sort by timestamp
 
