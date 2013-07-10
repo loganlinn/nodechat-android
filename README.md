@@ -1,7 +1,8 @@
 # Android NodeChat #
-### Foreword ###
+### Deprecated ###
 
-This is a project for a Network Application Design course. It is not actively developed or bug free, though feel free to fork. 
+This was a toy application that is no longer being developed.
+I have even lost track of the backend node.js code; it used to be on node.js homepage and I never thought to commit it here :(
 
 ### About ###
 
